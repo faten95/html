@@ -2,17 +2,44 @@
     font-family: 'Roboto';
   }
 
-li {
+.li1 {
     display: inline;
-    font-family: roboto;
 
   }
   .inblock{
       display: inline-block;
       width: 400px;
-      height: 100px;
-      margin: 20px;
+      height: 10px;
+      margin: 30px;
   }
   .part{
       width: 30%;
   }
+  .footermodif{
+      background-color: black;
+      font-weight: bold;
+      color:white;
+      padding-left: 10px;
+      padding-top: 10px;
+      border-radius: 8px;
+     
+  }
+  .button1 {border-radius: 8px;
+    background-color:darkblue; 
+    text-align: center; 
+   height: 50px;
+   width: 50px;
+     border: none;
+     color: white;
+
+}
+.title{
+    color:darkblue; 
+
+}
+.nav{
+    font-weight: bold;
+    color: black;
+    font-weight: 1000;
+    background:white;
+}
