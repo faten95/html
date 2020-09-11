@@ -1,0 +1,18 @@
+* {
+    font-family: 'Roboto';
+  }
+
+li {
+    display: inline;
+    font-family: roboto;
+
+  }
+  .inblock{
+      display: inline-block;
+      width: 400px;
+      height: 100px;
+      margin: 20px;
+  }
+  .part{
+      width: 30%;
+  }
